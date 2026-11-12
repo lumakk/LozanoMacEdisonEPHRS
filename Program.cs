@@ -27,7 +27,7 @@ namespace EPHRS
         static List<Employee> employees = new List<Employee>();
         static int nextId = 1001;
 
-        static string AppTitle = "=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ==="; // MERGE-CONFLICT-LINE
+        static string AppTitle = "=== EPHRS - FEATURE BRANCH VERSON ==="; // MERGE-CONFLICT-LINE
 
         static void Main(string[] args)
         {
